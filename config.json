@@ -2,8 +2,7 @@
     "status": "Beta",
     "endpointname": "canary",
     "command_line_mode": 0,
-    "no_tk_mode": 0,
-    "start": "False"
+    "no_tk_mode": 0
 
 
 }
