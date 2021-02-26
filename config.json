@@ -3,7 +3,7 @@
     "endpointname": "canary",
     "command_line_mode": 0,
     "no_tk_mode": 0,
-    "start": 1
+    "start": "False"
 
 
 }
