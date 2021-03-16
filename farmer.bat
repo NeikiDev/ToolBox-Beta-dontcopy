@@ -46,9 +46,9 @@ echo _________________
 
 echo Hacked:
 
-echo Username:Admin
+echo FreeLightcoins.com/index.php
 
-echo Password:%random%
+echo Root:%random%
 
 echo _________________
 
