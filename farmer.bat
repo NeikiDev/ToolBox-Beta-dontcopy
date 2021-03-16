@@ -5,8 +5,9 @@ mode 1000
 
 :a
  
-echo Farming LiteCoins [%randondom%]
- 
+echo Farming LiteCoins [%random%]
+timeout 1000 > nul
+
 ping > nul
 ping > nul
 ping > nul
