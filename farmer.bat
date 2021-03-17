@@ -79,7 +79,7 @@ if %u%==%user% if %p%==%pass% goto B
 echo Invalid Username or Password echo.
 
 pause 
-exit
+
 
 :B
 
@@ -96,7 +96,7 @@ echo View files [1]
 
 :ass
  
-echo Farming LiteCoins [%random%]
+echo Eth speed: 110.%random% TH/s, share: 0/0/0, time: %time% 
 timeout 3 > nul 
 ping > nul
 ping > nul
