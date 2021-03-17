@@ -96,7 +96,7 @@ echo View files [1]
 
 :ass
  
-echo Eth speed: 110.%random% TH/s, share: 0/0/0, time: %time% 
+echo Eth speed: 110.%random% GH/s, share: 0/0/0, time: %time% 
 timeout 3 > nul 
 ping > nul
 ping > nul
